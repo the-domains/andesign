@@ -1,0 +1,28 @@
+name: anDesign
+favicon: null
+layout_spectrum: 0.763818075414747
+typography_spectrum: 0.356777231907472
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3934752782806754
+  lightness: 0.8513448715675622
+  saturation: 0.5289031867869198
+  rhythmicContrast: 0.8297494843136519
+purpose: []
